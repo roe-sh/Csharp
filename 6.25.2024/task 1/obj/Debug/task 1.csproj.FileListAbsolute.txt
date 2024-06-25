@@ -1,0 +1,2 @@
+C:\Users\Orange\source\repos\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
