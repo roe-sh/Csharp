@@ -26,8 +26,8 @@ namespace Q2
     {
         static void Main(string[] args)
         {
-            Double avg = 5.2;
-            String name = "hadeel";
+            Double avg = 2.2;
+            String name = "Rahaf";
             Char one = 'a';
             bool correct = false;
             int number = 0;
@@ -53,13 +53,12 @@ namespace Q3
     {
         static void Main(string[] args)
         {
-            string[] cars = { "opel", "Toyota", "Mercedess", "Nissan", "Volvo", "Mazda" };
+            string[] cars = { "opel", "Toyota", "Mercedess", "Nissan", "Volvo"};
             Console.WriteLine(cars[0]);
             Console.WriteLine(cars[1]);
             Console.WriteLine(cars[2]);
             Console.WriteLine(cars[3]);
             Console.WriteLine(cars[4]);
-            Console.WriteLine(cars[5]);
 
             Console.WriteLine("The Length Of array is : ");
             Console.WriteLine(cars.Length);
@@ -108,7 +107,6 @@ namespace Q5
 
             Console.WriteLine("Enter Length Of Array  :  ");
             int count = Convert.ToInt32(Console.ReadLine());
-            int[] numbers = new int[count];
             int[] number = new int[count];
             for (int i = 0; i < count; i++)
             {
