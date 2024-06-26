@@ -53,12 +53,12 @@ namespace Q3
     {
         static void Main(string[] args)
         {
-            string[] cars = { "opel", "Toyota", "Mercedess", "Nissan", "Volvo"};
+             string[] cars = { "Toyota", "Honda", "Ford", "BMW" };
             Console.WriteLine(cars[0]);
             Console.WriteLine(cars[1]);
             Console.WriteLine(cars[2]);
             Console.WriteLine(cars[3]);
-            Console.WriteLine(cars[4]);
+            
 
             Console.WriteLine("The Length Of array is : ");
             Console.WriteLine(cars.Length);
@@ -80,15 +80,12 @@ namespace Q4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter Your First Name  :  ");
-            string fName = Console.ReadLine();
-            Console.WriteLine("Enter Your Last Name  :  ");
-            string lName = Console.ReadLine();
-            Console.WriteLine("Enter Your BirthDay  :  ");
-            int birthday = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine(fName + " " + lName + " " + birthday);
-
+            string firstName=Console.ReadLine();
+string lastName=Console.ReadLine();
+            int yearOfBirth = int.Parse(Console.ReadLine());
+            Console.Write("Input your firstname" +firstName );
+            Console.Write("Input your lastname" + lastName );
+            Console.Write("Input your year of birth" + yearOfBirth );
             Console.ReadKey();
         }
     }
@@ -103,21 +100,49 @@ namespace Q5
     {
         static void Main(string[] args)
         {
-            int num;
+             int[] array = new int[10];
+ Console.Write("element - 0 : ");
+ array[0] = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter Length Of Array  :  ");
-            int count = Convert.ToInt32(Console.ReadLine());
-            int[] number = new int[count];
-            for (int i = 0; i < count; i++)
-            {
-                num = Convert.ToInt32(Console.ReadLine());
-                number[i] = num;
-                numbers[i] = number[i];
-            }
+ Console.Write("element - 1 : ");
+ array[1] = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Array : ");
-            Array.Sort(numbers);
-            Console.WriteLine(string.Join(" - ", numbers));
+ Console.Write("element - 2 : ");
+ array[2] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 3 : ");
+ array[3] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 4 : ");
+ array[4] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 5 : ");
+ array[5] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 6 : ");
+ array[6] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 7 : ");
+ array[7] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 8 : ");
+ array[8] = int.Parse(Console.ReadLine());
+
+ Console.Write("element - 9 : ");
+ array[9] = int.Parse(Console.ReadLine());
+
+
+ Console.Write("Elements in array are: ");
+ Console.Write(array[0] + " ");
+ Console.Write(array[1] + " ");
+ Console.Write(array[2] + " ");
+ Console.Write(array[3] + " ");
+ Console.Write(array[4] + " ");
+ Console.Write(array[5] + " ");
+ Console.Write(array[6] + " ");
+ Console.Write(array[7] + " ");
+ Console.Write(array[8] + " ");
+ Console.Write(array[9] + " ");
 
 
             Console.ReadKey();
@@ -134,22 +159,10 @@ namespace Q6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the Number of Index in Array : ");
+            int[] arraysum = { 2, 5, 8 };
 
-            int num = Convert.ToInt32(Console.ReadLine());
-            //int element;
-            int sum = 0;
-            int[] arr = new int[num];
+			            Console.WriteLine(arraysum[0]+arraysum[1]+arraysum[2]);
 
-            for (int i = 0; i < num; i++)
-            {
-                arr[i] = Convert.ToInt32(Console.ReadLine());
-                sum += arr[i];
-            }
-            Console.WriteLine("The Sum Of the Element Is :  ");
-            Console.WriteLine(sum);
-
-            Console.ReadKey();
         }
     }
 }
