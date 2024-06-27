@@ -23,31 +23,24 @@ namespace task2
 
             /////////////////////////////////////////////////////////////
 
-            //int num;
-            //Console.Write("\n\n");  
-            //Console.Write("Check whether a number is positive or negative:\n");  
-            //Console.Write("----------------------------------------------");  
-            //Console.Write("\n\n");  
-            //Console.Write("Input an integer : ");  
-            //num = Convert.ToInt32(Console.ReadLine()); 
+             //Console.WriteLine("2- The sign");
+            //Console.WriteLine("Enter a number");
+            //int n1 = Convert.ToInt32(Console.ReadLine());
 
-            //if (num >= 0)  
-            //    Console.WriteLine("{0} is a positive number.\n", num);  
-            //else
-            //    Console.WriteLine("{0} is a negative number. \n", num);  
+
+            //Console.WriteLine("The sign of the number is: "+Math.Sign(n1));
 
             ///////////////////////////////////////////////////////////////////////
             ///
-            //int number = -7;
-
-
-            //string signMessage = (number > 0) ? "+"
-            //                    : (number < 0) ? "-"
-            //                    : "The number is zero.";
-
-
-            //Console.WriteLine(signMessage);
-            //Console.ReadKey();
+           //Console.WriteLine("3- sort numbers");
+            //Console.WriteLine("Enter 3 numbers");
+            //int a1=Convert.ToInt32(Console.ReadLine());
+            //int b1=Convert.ToInt32(Console.ReadLine());
+            //int c1=Convert.ToInt32(Console.ReadLine());
+            //int[] nums ={ a1,b1,c1 };
+            //Array.Sort(nums);
+            //Array.Reverse(nums);
+            //Console.WriteLine(String.Join(" ", nums));
 
 
             ///////////////////////////////////////////////////
