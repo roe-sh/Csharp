@@ -17,9 +17,9 @@ namespace task_3
 
 
             ///////////////Q2
-            //            "Tomato" is at index 0
-            //"Banana" is at index 1
-            //"Watermelon" is at index 2
+
+
+            
 
             /////////////////////////////////////Q2
             //string[] favoriteFoods = { "Fries", "chicken", "fish", "Pasta", "Burger" };
