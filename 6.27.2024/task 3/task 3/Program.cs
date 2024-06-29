@@ -17,11 +17,17 @@ namespace task_3
 
 
             ///////////////Q2
-
+ //string[] fruits = { "Tomato", "Banana", "Watermelon" };
+ //var index = Array.IndexOf(fruits, "Tomato");
+ //var index1 = Array.IndexOf(fruits, "Banana");
+ //Console.WriteLine(index);
+ //Console.WriteLine(index1);
+ //Console.ReadKey();
+            
 
             
 
-            /////////////////////////////////////Q2
+            /////////////////////////////////////Q3
             //string[] favoriteFoods = { "Fries", "chicken", "fish", "Pasta", "Burger" };
             //string[] favoriteSports = { "swimming", "Basketball", "Tennis" };
             //string[] favoriteMovies = { "black swan", "green mile", "openhaimer", "Interstellar" };
@@ -51,7 +57,7 @@ namespace task_3
             //{
             //    Console.WriteLine(favoriteFoods[i]);
             //}
-            ///////////////////////////////////////////////////////Q3
+            ///////////////////////////////////////////////////////Q4
             //Console.WriteLine("Enter three numbers :");
 
 
@@ -63,17 +69,16 @@ namespace task_3
             //{
             //    sum += int.Parse(numStr.Trim());
             //}
-            ////////////////////////////////////////////Q4
+            ////////////////////////////////////////////Q5
 
+            //Console.Write("Input three numbers separated by comma: ");
+            //string inputNums = Console.ReadLine();
+            //string[] numsString = inputNums.Split(',');
+            //int[] nums = Array.ConvertAll(numsString, int.Parse);
+            //int sum = nums[0] + nums[1] + nums[2];
+            //Console.WriteLine($"The sum of three numbers: {sum}");
 
-
-
-
-
-
-
-
-            /////////////////////////////////////////////////////////Q5
+            /////////////////////////////////////////////////////////Q6
             //int n = 20; 
             //int sum = 0;
             //int count = 0;
@@ -88,7 +93,7 @@ namespace task_3
 
             //    if (count == n)
             //        break;
-            /////////////////////////////////////////////////Q6
+            /////////////////////////////////////////////////Q7
 
             //int n = 4;
 
@@ -110,12 +115,26 @@ namespace task_3
 
             //    Console.WriteLine();
 
-
-            //}
+/////////////////////////////////////////////////////////////////////Q7
+                 int rows = 4;
+ int num = 1;
+ for (int i = 1; i <= rows; i++)
+ {
+     for (int g = rows; g > i; g--)
+     {
+         Console.Write(" ");
+     }
+     for (int k = 1; k <= i; k++)
+     {
+         Console.Write(num);
+         num++;
+     }
+     Console.WriteLine();
+            }
         }
     }
-    //////////////////////////////////////////////////////Q7
+
    
-        }
+        
     
 
