@@ -1,0 +1,6 @@
+﻿Build started at 6:07 AM...
+1>------ Build started: Project: ConsoleApp6, Configuration: Debug Any CPU ------
+1>C:\Users\Orange\source\repos\ConsoleApp6\ConsoleApp6\Program.cs(46,21,46,28): warning CS0108: 'BMW.Display()' hides inherited member 'Car.Display()'. Use the new keyword if hiding was intended.
+1>  ConsoleApp6 -> C:\Users\Orange\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 6:07 AM and took 00.611 seconds ==========

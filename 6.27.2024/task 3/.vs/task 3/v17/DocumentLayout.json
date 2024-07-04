@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\task 3\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Csharp\\Csharp\\Csharp\\6.27.2024\\task 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84B2C36F-43D0-4EEC-92E2-A961039C3FA3}|task 3\\task 3.csproj|c:\\users\\orange\\source\\repos\\task 3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84B2C36F-43D0-4EEC-92E2-A961039C3FA3}|task 3\\task 3.csproj|c:\\users\\orange\\desktop\\csharp\\csharp\\csharp\\6.27.2024\\task 3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B2C36F-43D0-4EEC-92E2-A961039C3FA3}|task 3\\task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\task 3\\task 3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Csharp\\Csharp\\Csharp\\6.27.2024\\task 3\\task 3\\Program.cs",
               "RelativeDocumentMoniker": "task 3\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\task 3\\task 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Csharp\\Csharp\\Csharp\\6.27.2024\\task 3\\task 3\\Program.cs",
               "RelativeToolTip": "task 3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAEAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAIQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T17:07:07.649Z",
               "EditorCaption": ""

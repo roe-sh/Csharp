@@ -11,46 +11,76 @@ namespace task2
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("\nInput first integer:");
 
-            //int x = Convert.ToInt32(Console.ReadLine());
+            string firstName = Console.ReadLine();
+            string lastName = Console.ReadLine();
+            int yearOfBirth = int.Parse(Console.ReadLine());
+            Console.Write("Input your firstname" + firstName);
+            Console.Write("Input your lastname" + lastName);
+            Console.Write("Input your year of birth" + yearOfBirth);
+            Console.ReadKey();
+            //    Console.WriteLine("\nInput first integer:");
 
-            //Console.WriteLine("Input second integer:");
+            //    int x = Convert.ToInt32(Console.ReadLine());
 
-            //int y = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine("Input second integer:");
 
-            //Console.WriteLine("Lowest of three: " + Math.Min(x,  y));
+            //    int y = Convert.ToInt32(Console.ReadLine());
+
+            //    Console.WriteLine("Lowest of three: " + Math.Min(x, y));
 
             /////////////////////////////////////////////////////////////
-
-            //int num;
-            //Console.Write("\n\n");  
-            //Console.Write("Check whether a number is positive or negative:\n");  
-            //Console.Write("----------------------------------------------");  
-            //Console.Write("\n\n");  
-            //Console.Write("Input an integer : ");  
-            //num = Convert.ToInt32(Console.ReadLine()); 
-
-            //if (num >= 0)  
-            //    Console.WriteLine("{0} is a positive number.\n", num);  
-            //else
-            //    Console.WriteLine("{0} is a negative number. \n", num);  
+            //Console.WriteLine("2- The sign");
+            //Console.WriteLine("Enter a number");
+            //int n1 = Convert.ToInt32(Console.ReadLine());
 
             ///////////////////////////////////////////////////////////////////////
             ///
-            //int number = -7;
 
 
-            //string signMessage = (number > 0) ? "+"
-            //                    : (number < 0) ? "-"
-            //                    : "The number is zero.";
+            //Console.WriteLine("3- sort numbers");
+            //Console.WriteLine("Enter 3 numbers");
+            //int a1=Convert.ToInt32(Console.ReadLine());
+            //int b1=Convert.ToInt32(Console.ReadLine());
+            //int c1=Convert.ToInt32(Console.ReadLine());
+            //int[] nums ={ a1,b1,c1 };
+            //Array.Sort(nums);
+            //Array.Reverse(nums);
+            //Console.WriteLine(String.Join(" ", nums));
+            ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+            //int num1 = 0;
+            //int num2 = -1;
+            //int num3 = 4;
+
+            //int[] numbers = { num1, num2, num3 };
+
+            //Array.Sort(numbers);
 
 
-            //Console.WriteLine(signMessage);
-            //Console.ReadKey();
+            //Console.WriteLine($"{numbers[0]}, {numbers[1]}, {numbers[2]}");
+            ///////////////////////////////////////////////////////////////////////////////////////////////////
+            //int i = 0;
+            //while (i < 10)
+            //{
+            //    Console.WriteLine(i); i++;
+            //}
+
+            ///////////////////////////////////////////////////////////////////////////
+            ///
+            //int i = 1;
+            //do
+            //{
+            //    Console.WriteLine(i); i++;
+
+            //}
 
 
-            ///////////////////////////////////////////////////
+
+            //while (i < 10);
+            //{
+            //    Console.WriteLine(i); i++;
+            //}
+            /////////////////////////////////////////////////
             //int num1 = 0;
             //int num2 = -1;
             //int num3 = 4;
@@ -77,7 +107,7 @@ namespace task2
 
 
             //Console.WriteLine($"The maximum number is: {max}");
-            /////////////////////////////////////////////////////////////////
+            ///////////////////////////////////////////////////////////////
             //Console.Write("Input kilometers per hour: ");
             //double kmPerHour = Convert.ToDouble(Console.ReadLine());
 
@@ -113,19 +143,19 @@ namespace task2
 
             ///////////////////////////////////////////////////////////////////////////////////////
 
-           
-            string a = "Burger and fries are the greatist invintion ever";
-            string b = "I love cats";
-            string c = "The sky is blue.";
-            string d = "who are you?";
-            string e = "I dont love cats";
 
-            Console.WriteLine(a.PadLeft(25, '-'));
-            Console.WriteLine(b.PadLeft(25, '-'));
-            Console.WriteLine(c.PadLeft(25, '-'));
-            Console.WriteLine(d.PadLeft(25, '-'));
-            Console.WriteLine(e.PadLeft(25, '-'));
-            Console.ReadKey();
+            //string a = "Burger and fries are the greatist invintion ever";
+            //string b = "I love cats";
+            //string c = "The sky is blue.";
+            //string d = "who are you?";
+            //string e = "I dont love cats";
+
+            //Console.WriteLine(a.PadLeft(25, '-'));
+            //Console.WriteLine(b.PadLeft(25, '-'));
+            //Console.WriteLine(c.PadLeft(25, '-'));
+            //Console.WriteLine(d.PadLeft(25, '-'));
+            //Console.WriteLine(e.PadLeft(25, '-'));
+            //Console.ReadKey();
         }
-    }
+}
 }

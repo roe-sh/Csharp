@@ -17,9 +17,17 @@ namespace task_3
 
 
             ///////////////Q2
-            //            "Tomato" is at index 0
-            //"Banana" is at index 1
-            //"Watermelon" is at index 2
+            //string[] fruits = { "Tomato", "Banana", "Watermelon" };
+            //var index = Array.IndexOf(fruits, "Tomato");
+            //var index1 = Array.IndexOf(fruits, "Banana");
+            //Console.WriteLine(index);
+            //Console.WriteLine(index1);
+            //Console.ReadKey();
+
+
+
+
+
 
             /////////////////////////////////////Q2
             //string[] favoriteFoods = { "Fries", "chicken", "fish", "Pasta", "Burger" };
@@ -65,16 +73,15 @@ namespace task_3
             //}
             ////////////////////////////////////////////Q4
 
-
-
-
-
-
-
-
+            //Console.Write("Input three numbers separated by comma: ");
+            //string inputNums = Console.ReadLine();
+            //string[] numsString = inputNums.Split(',');
+            //int[] nums = Array.ConvertAll(numsString, int.Parse);
+            //int sum = nums[0] + nums[1] + nums[2];
+            //Console.WriteLine($"The sum of three numbers: {sum}");
 
             /////////////////////////////////////////////////////////Q5
-            //int n = 20; 
+            //int n = 20;
             //int sum = 0;
             //int count = 0;
 
@@ -88,34 +95,71 @@ namespace task_3
 
             //    if (count == n)
             //        break;
-            /////////////////////////////////////////////////Q6
+                /////////////////////////////////////////////////Q6
 
-            //int n = 4;
+                //int n = 4;
 
 
-            //for (int i = 1; i <= n; i++)
+                //for (int i = 1; i <= n; i++)
+                //{
+
+                //    for (int j = 1; j <= n - i; j++)
+                //    {
+                //        Console.Write(" ");
+                //    }
+
+
+                //    for (int k = 1; k <= i; k++)
+                //    {
+                //        Console.Write("*");
+                //    }
+
+
+                //    Console.WriteLine();
+                ////////////////////////////////
+            //    int rows = 4;
+            //int num = 1;
+            //for (int i = 1; i <= rows; i++)
             //{
-
-            //    for (int j = 1; j <= n - i; j++)
+            //    for (int g = rows; g > i; g--)
             //    {
             //        Console.Write(" ");
             //    }
-
-
             //    for (int k = 1; k <= i; k++)
             //    {
-            //        Console.Write("*");
+            //        Console.Write(num);
+            //        num++;
             //    }
-
-
             //    Console.WriteLine();
+                //////////////////////////////
+                //int n = 4;
 
 
-            //}
+                //for (int i = 1; i <= n; i++)
+                //{
+
+                //    for (int j = 1; j <= n - i; j++)
+                //    {
+                //        Console.Write(" ");
+                //    }
+
+
+                //    for (int k = 1; k <= i; k++)
+                //    {
+                //        Console.Write("*");
+                //    }
+
+
+                //    Console.WriteLine();
+            }
+
         }
     }
-    //////////////////////////////////////////////////////Q7
+    }
+
+
    
-        }
-    
+
+
+
 

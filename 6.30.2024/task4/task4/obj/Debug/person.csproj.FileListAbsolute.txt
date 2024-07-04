@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\bin\Debug\task4.exe.config
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\bin\Debug\task4.exe
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\bin\Debug\task4.pdb
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\obj\Debug\person.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\obj\Debug\person.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\obj\Debug\task4.exe
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.30.2024\task4\task4\obj\Debug\task4.pdb

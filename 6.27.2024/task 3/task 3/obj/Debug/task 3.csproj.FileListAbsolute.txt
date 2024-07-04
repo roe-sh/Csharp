@@ -5,3 +5,10 @@ C:\Users\Orange\source\repos\task 3\task 3\obj\Debug\task 3.csproj.AssemblyRefer
 C:\Users\Orange\source\repos\task 3\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
 C:\Users\Orange\source\repos\task 3\task 3\obj\Debug\task 3.exe
 C:\Users\Orange\source\repos\task 3\task 3\obj\Debug\task 3.pdb
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\bin\Debug\task 3.exe.config
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\bin\Debug\task 3.exe
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\bin\Debug\task 3.pdb
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\obj\Debug\task 3.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\obj\Debug\task 3.exe
+C:\Users\Orange\Desktop\Csharp\Csharp\Csharp\6.27.2024\task 3\task 3\obj\Debug\task 3.pdb
