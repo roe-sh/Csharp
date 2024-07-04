@@ -30,6 +30,7 @@ namespace task2
             //    Console.WriteLine("Lowest of three: " + Math.Min(x, y));
 
             /////////////////////////////////////////////////////////////
+<<<<<<< HEAD
             //Console.WriteLine("2- The sign");
             //Console.WriteLine("Enter a number");
             //int n1 = Convert.ToInt32(Console.ReadLine());
@@ -39,6 +40,19 @@ namespace task2
 
 
             //Console.WriteLine("3- sort numbers");
+=======
+
+             //Console.WriteLine("2- The sign");
+            //Console.WriteLine("Enter a number");
+            //int n1 = Convert.ToInt32(Console.ReadLine());
+
+
+            //Console.WriteLine("The sign of the number is: "+Math.Sign(n1));
+
+            ///////////////////////////////////////////////////////////////////////
+            ///
+           //Console.WriteLine("3- sort numbers");
+>>>>>>> acd98835b3a9f9d92a95b3d5036d871075cd1ce7
             //Console.WriteLine("Enter 3 numbers");
             //int a1=Convert.ToInt32(Console.ReadLine());
             //int b1=Convert.ToInt32(Console.ReadLine());
@@ -47,6 +61,7 @@ namespace task2
             //Array.Sort(nums);
             //Array.Reverse(nums);
             //Console.WriteLine(String.Join(" ", nums));
+<<<<<<< HEAD
             ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
             //int num1 = 0;
             //int num2 = -1;
@@ -73,6 +88,8 @@ namespace task2
             //    Console.WriteLine(i); i++;
 
             //}
+=======
+>>>>>>> acd98835b3a9f9d92a95b3d5036d871075cd1ce7
 
 
 
